@@ -30,4 +30,3 @@ class RepositorioCompra
 
         return domicilios.toList()
     }
-}
