@@ -1,4 +1,4 @@
-class RepositorioCompra
+class RepositorioCompra{
 
     private val compras = mutableListOf<Compra>()
 
@@ -21,12 +21,13 @@ class RepositorioCompra
         compras.add(Compra(cliente, dia, total))
     }
 
-    fun domicilios(): List<Domicilio>{
-        val domicilios = mutableSetOf<Domicilio>()
-
-        for (compra in compras){
-            domicilios.add(compra.cliente.domicilio)
+    fun domicilios(): MutableSet<Domicilio> {
+        val setCompras: MutableSet<Domicilio> = mutableSetOf()
+        for (compra in compras) {
+            setCompras.add(compra.cliente.domicilio)
         }
-
-        return domicilios.toList()
+        return setCompras
     }
+
+
+}

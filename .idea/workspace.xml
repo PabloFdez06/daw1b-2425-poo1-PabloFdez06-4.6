@@ -4,21 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b25e25ef-c9db-4fdd-8333-c1982e77ae9f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EJ_4.6_POO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cliente.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Compra.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Domicilio.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RepositorioCompra.kt" afterDir="false" />
+    <list default="true" id="b25e25ef-c9db-4fdd-8333-c1982e77ae9f" name="Changes" comment="Hasta lo realizado en clase, continuar en casa.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Domicilio.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domicilio.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RepositorioCompra.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/RepositorioCompra.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2s2li4Oz2WMXzTwAFLAvePndqac" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -47,9 +37,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.MainKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/UsuarioT/Documents/ReposGit/PROG2425_POO_AhorcadoAlumnos",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -75,11 +67,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737661676423</updated>
-      <workItem from="1737661677490" duration="1789000" />
+      <workItem from="1737661677490" duration="2205000" />
+      <workItem from="1737744759804" duration="439000" />
+      <workItem from="1737745212111" duration="29000" />
+      <workItem from="1738263641753" duration="781000" />
     </task>
+    <task id="LOCAL-00001" summary="Hasta lo realizado en clase, continuar en casa.">
+      <option name="closed" value="true" />
+      <created>1737663536675</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737663536675</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Hasta lo realizado en clase, continuar en casa.">
+      <option name="closed" value="true" />
+      <created>1737663744679</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737663744679</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Hasta lo realizado en clase, continuar en casa.">
+      <option name="closed" value="true" />
+      <created>1737663805861</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737663805861</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hasta lo realizado en clase, continuar en casa." />
+    <option name="LAST_COMMIT_MESSAGE" value="Hasta lo realizado en clase, continuar en casa." />
   </component>
 </project>
